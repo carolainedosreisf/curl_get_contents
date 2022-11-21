@@ -1,4 +1,5 @@
 <?php
+//https://gist.github.com/7aduta/acc2c9a55977beeac776c949d9d25271
 function curl_get_contents()
 {
     $url = "https://mir-s3-cdn-cf.behance.net/project_modules/1400/1cb48c56801763.59bca8e44807a.jpg";
